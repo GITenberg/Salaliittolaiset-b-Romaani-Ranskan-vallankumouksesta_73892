@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '32243'
     url: http://www.gutenberg.org/2009/agents/32243
     wikipedia: https://fi.wikipedia.org/wiki/Urho_Kivim%C3%A4ki
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
     - https://fr.wikipedia.org/wiki/Alexandre_Dumas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73892#Salaliittolaiset-b-Romaani-Ranskan-vallankumouksesta
 gutenberg_issued: '2024-06-22'
 gutenberg_type: Text
 identifiers:
